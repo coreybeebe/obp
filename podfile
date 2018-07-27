@@ -1,0 +1,15 @@
+target 'LifesaverOBP' do
+ 
+  use_frameworks!
+
+  # Pods for LifesaverOBP
+
+    pod 'Firebase/Core'
+    pod 'Firebase/Auth'
+    pod 'Firebase/Storage'
+    pod 'Firebase/Firestore'
+    pod 'AMScrollingNavbar'
+    pod 'BulletinBoard'
+    pod 'ScrollableGraphView'
+    pod 'MagicPie'
+end
